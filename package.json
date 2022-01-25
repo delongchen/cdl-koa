@@ -1,0 +1,8 @@
+{
+  "name": "cdl-koa",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "description": "a koa tool",
+  "author": "delongchen",
+  "license": "MIT"
+}
